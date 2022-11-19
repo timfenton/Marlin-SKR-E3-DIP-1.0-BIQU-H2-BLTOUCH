@@ -1,8 +1,3 @@
-#Custom Firmware Configuration for Ender 3 with SKR E3 DIP v1.0 board and the following:
-- BIQU H2 Hotend (direct drive)
-- BLTouch 3/2 split plug (bltouch in probe slot, three pin in servo slot)
-- Screen BTT TFT35-E3
-
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
